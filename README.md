@@ -1,8 +1,7 @@
 # Invoice Management App 
 A React Native and TypeScript-based invoice management app that tracks personal expenses and incomes, providing users with clear financial insights through yearly and monthly charts. The app also features a currency conversion API for effortless multi-currency management.
 
-![image](![Project3](https://github.com/user-attachments/assets/8b02ea77-a638-4b50-ae20-dccc19557bfc)
-)
+![image](https://github.com/user-attachments/assets/8b02ea77-a638-4b50-ae20-dccc19557bfc)
 
 # Getting Started
 
