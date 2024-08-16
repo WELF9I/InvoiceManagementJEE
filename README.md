@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Invoice Management App 
+A React Native and TypeScript-based invoice management app that tracks personal expenses and incomes, providing users with clear financial insights through yearly and monthly charts. The app also features a currency conversion API for effortless multi-currency management.
+
 ![image] (https://github.com/user-attachments/assets/76dd97f5-fce8-482d-909b-ef4178349e6a)
 
 # Getting Started
